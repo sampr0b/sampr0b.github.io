@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sampr0b.github.io/sampr0b.github.io/sitemap.xml
+Sitemap: https://sampr0b.github.io//sitemap.xml
