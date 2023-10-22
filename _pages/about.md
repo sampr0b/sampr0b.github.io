@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>CANSSI Space</p>
+    <p>CANSSI National Headquarters</p>
     <p>Applied Sciences Building</p>
     <p>Simon Fraser University</p>
     <p>Burnaby, BC, Canada</p>
