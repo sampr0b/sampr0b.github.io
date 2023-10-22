@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MITACS Accelerate Post-Doctoral Fellow, Simon Fraser University
+subtitle: <b>MITACS Accelerate Post-Doctoral Fellow</b>, Simon Fraser University
 
 profile:
   align: right
