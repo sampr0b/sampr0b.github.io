@@ -7,9 +7,9 @@ subtitle: MITACS Accelerate Post-Doctoral Fellow, Simon Fraser University
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>CANSSI National Headquarters</p>
+    <p>CANSSI Space</p>
     <p>Applied Sciences Building</p>
     <p>Simon Fraser University</p>
     <p>Burnaby, BC, Canada</p>
